@@ -1,7 +1,7 @@
 # 2emia-projeto
 [Descrição do projeto]
 ## autores
--Henzo
+-Henzo Puchetti
 -João Pedro Rente
 -Rafael Porto
 -Giovanni Giacomelli
